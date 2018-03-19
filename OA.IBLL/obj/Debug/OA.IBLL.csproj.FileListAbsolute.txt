@@ -1,0 +1,14 @@
+E:\Csharp\OASystem\OA.IBLL\bin\Debug\OA.IBLL.dll
+E:\Csharp\OASystem\OA.IBLL\bin\Debug\OA.IBLL.pdb
+E:\Csharp\OASystem\OA.IBLL\bin\Debug\OA.IDAL.dll
+E:\Csharp\OASystem\OA.IBLL\bin\Debug\OA.Model.dll
+E:\Csharp\OASystem\OA.IBLL\bin\Debug\EntityFramework.dll
+E:\Csharp\OASystem\OA.IBLL\bin\Debug\OA.IDAL.pdb
+E:\Csharp\OASystem\OA.IBLL\bin\Debug\OA.Model.pdb
+E:\Csharp\OASystem\OA.IBLL\bin\Debug\OA.Model.dll.config
+E:\Csharp\OASystem\OA.IBLL\bin\Debug\EntityFramework.xml
+E:\Csharp\OASystem\OA.IBLL\bin\Debug\de\EntityFramework.resources.dll
+E:\Csharp\OASystem\OA.IBLL\obj\Debug\OA.IBLL.csprojResolveAssemblyReference.cache
+E:\Csharp\OASystem\OA.IBLL\obj\Debug\OA.IBLL.csproj.CoreCompileInputs.cache
+E:\Csharp\OASystem\OA.IBLL\obj\Debug\OA.IBLL.dll
+E:\Csharp\OASystem\OA.IBLL\obj\Debug\OA.IBLL.pdb

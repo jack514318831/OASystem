@@ -1,0 +1,12 @@
+E:\Csharp\OASystem\OA.Model\bin\Debug\OA.Model.dll.config
+E:\Csharp\OASystem\OA.Model\bin\Debug\OA.Model.dll
+E:\Csharp\OASystem\OA.Model\bin\Debug\OA.Model.pdb
+E:\Csharp\OASystem\OA.Model\bin\Debug\EntityFramework.dll
+E:\Csharp\OASystem\OA.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Csharp\OASystem\OA.Model\bin\Debug\EntityFramework.xml
+E:\Csharp\OASystem\OA.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Csharp\OASystem\OA.Model\bin\Debug\de\EntityFramework.resources.dll
+E:\Csharp\OASystem\OA.Model\obj\Debug\OA.Model.csprojResolveAssemblyReference.cache
+E:\Csharp\OASystem\OA.Model\obj\Debug\OA.Model.csproj.CoreCompileInputs.cache
+E:\Csharp\OASystem\OA.Model\obj\Debug\OA.Model.dll
+E:\Csharp\OASystem\OA.Model\obj\Debug\OA.Model.pdb
